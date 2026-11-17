@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-m-codecs"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-m-codecs component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
